@@ -24,4 +24,4 @@ Things you may want to cover:
 * ...
 
 ## how to use gitHub Desktop
-## how to use git revert
+
