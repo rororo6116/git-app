@@ -22,3 +22,5 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+## how to use gitHub Desktop
+## how to use git revert
